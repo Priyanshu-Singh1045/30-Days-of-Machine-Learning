@@ -36,10 +36,4 @@ Or, to re-run and re-save all outputs from the command line:
 jupyter nbconvert --to notebook --execute --inplace Day2_Probability_Basics.ipynb
 ```
 
-## Posting checklist
 
-- [ ] Upload `Day2_Probability_Basics_Carousel.pdf` to LinkedIn as a document post
-- [ ] Use the hook from slide 1 as your post's opening line (LinkedIn truncates after ~2 lines on mobile)
-- [ ] Mention the notebook is available if anyone wants to try it on their own data — drives comments/DMs
-- [ ] Post 1–2 days after Day 1, per the cadence in your original 30-day plan
-- [ ] Ask the slide 8 question in your caption too, not just on the slide — doubles the chance of a comment
