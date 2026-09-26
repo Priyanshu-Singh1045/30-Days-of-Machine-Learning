@@ -53,10 +53,3 @@ Or re-run and re-save all outputs from the command line:
 jupyter nbconvert --to notebook --execute --inplace Day3_Data_Distributions.ipynb
 ```
 
-## Posting checklist
-
-- [ ] Upload `Day3_Data_Distributions_Carousel.pdf` to LinkedIn as a document post
-- [ ] Use the slide 1 hook as your caption's opening line
-- [ ] Mention the notebook is available for anyone who wants to check their own data's distribution
-- [ ] Post 1–2 days after Day 2, per your cadence plan
-- [ ] Ask the slide 11 question in your caption too — drives comments
